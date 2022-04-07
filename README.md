@@ -24,7 +24,7 @@ I'm Yves Isite and I am a full-stack web developer and software engineer.
 - [Javascript](https://www.hackerrank.com/certificates/b3ce7584462f)<br>
 - [CSS3 Certificate](https://www.hackerrank.com/certificates/d7f2b9f01336)<br>
 
-#### My favorite languages/framework
-- Javascript (Node.s, React.JS)
+#### My favorite languages/frameworks
+- Javascript (Node.js, React)
 - Java
 - C,C++
