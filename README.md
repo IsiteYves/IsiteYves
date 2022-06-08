@@ -6,7 +6,7 @@ I'm Yves Isite and I am a full-stack web developer and software engineer.
 
 - I'm a student at Rwanda Coding Academy
 - Currently learning Java and Python
-- I'm looking forward to collaborate on anything
+- I'm looking forward to collaborate on web app development
 - 📫 Email: yvesisite@gmail.com
 
 #### Top Technologies & Tools
