@@ -4,9 +4,8 @@ I'm Yves Isite and I am a full-stack web developer based in Rwanda, Kigali City.
 **Reach Me:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Yves_Isite-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-isite-5779491a3) [![Mail Badge](https://img.shields.io/badge/-@yvesisite-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/isiteyves/) [![Mail Badge](https://img.shields.io/badge/-Yves_Isite-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yvesisite@gmail.com)
 
-- I'm a student at Rwanda Coding Academy
-- Currently learning Java and Python
-- I'm looking forward to collaborate on web app development
+- Currently working at [Sirch](https://www.linkedin.com/company/sirchmyway)
+- Always open to work with you!
 - 📫 Email: yvesisite@gmail.com
 
 #### Top Technologies & Tools
