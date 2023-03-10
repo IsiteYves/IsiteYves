@@ -19,10 +19,6 @@ I'm Yves Isite and I am a full-stack web developer based in Rwanda, Kigali City.
 |------------------|------------------|
 |![Yves Isite's github stats](https://github-readme-stats.vercel.app/api?username=IsiteYves&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiteYves&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
 
-#### My Certificates:
-- [Javascript](https://www.hackerrank.com/certificates/b3ce7584462f)<br>
-- [CSS3 Certificate](https://www.hackerrank.com/certificates/d7f2b9f01336)<br>
-
 #### My favorite languages/frameworks
 - Javascript (Node.js, React)
 - Java
