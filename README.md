@@ -13,11 +13,11 @@ I'm Yves Isite and I am a full-stack web developer based in Rwanda, Kigali City.
 <!-- ### Statistics:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsiteYves&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats) -->
 
-|My overall statistics|Top most languages |
-|------------------|------------------|
-|![Yves Isite's github stats](https://github-readme-stats.vercel.app/api?username=IsiteYves&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiteYves&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
-
+|My overall statistics|
+|------------------|
+|![Yves Isite's github stats](https://github-readme-stats.vercel.app/api?username=IsiteYves&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiteYves&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
 #### My favorite languages/frameworks
 - Javascript (Node.js, React)
 - Java
-- C,C++
+- C,C++ -->
