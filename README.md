@@ -2,9 +2,7 @@
 I am an `SC Cleared Software Engineer, Blockchain developer and Transcriber with 6 years of professional working experience` in both Web and Mobile Full Stack development.I possess a unique and versatile set of technical and communication skills. My expertise in designing, developing and deploying scalable Frontend and backend solutions, coupled with my strong command of Android development frameworks and tools, enables me to create efficient, high-quality applications that meet user expectations. With a passion for staying up-to-date with emerging technologies and industry trends, I am committed to delivering innovative solutions that drive your business growth and success.
 
 **Reach Me:<br>**
-[![Linkedin Badge](https://img.shields.io/badge/-Yves_Isite-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-isite-5779491a3) 
-<!-- [![Mail Badge](https://img.shields.io/badge/-@yvesisite-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/isiteyves/) -->
-[![Mail Badge](https://img.shields.io/badge/-Yves_Isite-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yvesisite@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yves_Isite-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-isite-5779491a3)<!-- [![Mail Badge](https://img.shields.io/badge/-@yvesisite-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/isiteyves/) -->[![Mail Badge](https://img.shields.io/badge/-Yves_Isite-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yvesisite@gmail.com)
 
 - 📫 Email: yvesisite@gmail.com
 
